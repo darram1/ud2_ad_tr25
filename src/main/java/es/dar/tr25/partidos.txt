@@ -1,0 +1,19 @@
+Nombres de los equipos que jugaron la final de la Europcopa 2020
+-Italy / England
+
+Nombre de los entrenadores cuya nacionalidad no coincide con el pais que se representa: 
+- Switzerland Nacionalidad Equipos: Switzerland Entrenador: Vladimir Petković Nacionalidad Emtrenador: Bosnia and Herzegovina
+- Hungary Nacionalidad Equipos: Hungary Entrenador: Marco Rossi Nacionalidad Emtrenador: Italy
+- Poland Nacionalidad Equipos: Poland Entrenador: Paulo Manuel Carvalho de Sousa Nacionalidad Emtrenador: Portugal
+- Belgium Nacionalidad Equipos: Belgium Entrenador: Roberto Martínez Montoliú Nacionalidad Emtrenador: Spain
+- Switzerland Nacionalidad Equipos: Switzerland Entrenador: Vladimir Petković Nacionalidad Emtrenador: Bosnia and Herzegovina
+- Austria Nacionalidad Equipos: Austria Entrenador: Franco Foda Nacionalidad Emtrenador: Germany
+
+Partidos que se jugaron despues del 1 de julio de 2021:
+- Belgium / Italy
+- England / Denmark
+- Italy / England
+- Italy / Spain
+- Switzerland / Spain
+- Ukraine / England
+- Czech Republic / Denmark
